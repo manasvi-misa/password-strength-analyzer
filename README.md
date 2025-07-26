@@ -26,12 +26,12 @@ This tool evaluates the strength of a given password and generates a custom word
 ---
 
 ## File Structure
-password-analyzer/
-├── analyzer.py # Password strength evaluation
-├── wordlist_generator.py # Custom wordlist creation
-├── sample_wordlist.txt # Example output
-├── report.pdf # Final project report (2 pages)
-└── README.md # Project overview
+password-analyzer
+analyzer.py # Password strength evaluation
+wordlist_generator.py # Custom wordlist creation
+sample_wordlist.txt # Example output
+report.pdf # Final project report (2 pages)
+README.md # Project overview
 
 
 ---
